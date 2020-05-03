@@ -1,7 +1,7 @@
-![](https://img.shields.io/badge/Type-Survey%20Paper-red)
+[![](https://img.shields.io/badge/Type-Survey%20Paper-red)](https://arxiv.org/abs/1910.10683)
 ![](https://img.shields.io/badge/Access-Free-green)
-![](https://img.shields.io/badge/Discussion-Ongoing-green)
-![](https://img.shields.io/badge/Meetup-2-yellowgreen)
+[![](https://img.shields.io/badge/Discussion-Ongoing-green)](https://paper.dropbox.com/doc/Paper-ReadingDiscussion-1-Bv3fHWQgHCMdAaQtMXsoH)
+[![](https://img.shields.io/badge/Meetup-2-yellowgreen)](https://www.meetup.com/dair-ai/events/270419989/)
 
 ## Title
 Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
