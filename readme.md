@@ -1,3 +1,8 @@
+[![](https://img.shields.io/badge/Type-Survey%20Paper-red)](https://arxiv.org/abs/1910.10683)
+![](https://img.shields.io/badge/Access-Free-green)
+[![](https://img.shields.io/badge/Discussion-Ongoing-green)](https://paper.dropbox.com/doc/Paper-ReadingDiscussion-1-Bv3fHWQgHCMdAaQtMXsoH)
+[![](https://img.shields.io/badge/Meetup-2-yellowgreen)](https://www.meetup.com/dair-ai/events/270419989/)
+
 Paper Reading/Discussion is fun way to learn from experienced people in the area and find new ways to implement solutions.
 
 This repository contains information related to such Meetup.
