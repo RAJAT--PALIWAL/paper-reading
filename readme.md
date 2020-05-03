@@ -14,4 +14,4 @@ Below table identifies which folder belongs to which paper.
 
 Title | Folder
 ------------ | -------------
-Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [Paper-1](https://github.com/RAJAT--PALIWAL/paper-reading/Paper-1)
+Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | [Paper-1](https://github.com/RAJAT--PALIWAL/paper-reading/tree/master/Paper-1)
